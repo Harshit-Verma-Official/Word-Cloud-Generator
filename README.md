@@ -15,7 +15,10 @@
   - Created by Harshit Verma. 
   
   
-  
+# Screenshots  
   
 ![alt text](SSS1.png)
+
+# Output Image
+
 ![alt text](SSS2.png)
